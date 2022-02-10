@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba968674.css",
-    "main.js": "/static/js/main.06203af8.js",
-    "static/media/munro.ttf": "/static/media/munro.f78662ff4aad4d038806.ttf",
-    "index.html": "/index.html",
-    "main.ba968674.css.map": "/static/css/main.ba968674.css.map",
-    "main.06203af8.js.map": "/static/js/main.06203af8.js.map"
+    "main.css": "/hue-shifter/static/css/main.6f238534.css",
+    "main.js": "/hue-shifter/static/js/main.06203af8.js",
+    "static/media/munro.ttf": "/hue-shifter/static/media/munro.f78662ff4aad4d038806.ttf",
+    "index.html": "/hue-shifter/index.html",
+    "main.6f238534.css.map": "/hue-shifter/static/css/main.6f238534.css.map",
+    "main.06203af8.js.map": "/hue-shifter/static/js/main.06203af8.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba968674.css",
+    "static/css/main.6f238534.css",
     "static/js/main.06203af8.js"
   ]
 }
